@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.* 
+
+# Node modules (frontend & backend)
+node_modules/
+
+# Build/Dist output
+build/
+dist/
+
+# Python virtual environments
+venv/
+.env/
+__pycache__/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# React local files
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Cache
+.cache/
+
